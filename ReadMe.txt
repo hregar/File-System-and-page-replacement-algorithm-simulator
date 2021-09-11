@@ -1,11 +1,3 @@
-//********************************************************************************************************************
-//
-//					Assignment : 5       
-//					Compiler : GCC (tdm64-1) 9.2.0
-//					Subject : System Lab
-//					Roll No. : 204101025 (Harshit Joshi) 204101027 (Hemant Regar) 					
-//
-//********************************************************************************************************************
 
 Question 1:	
 	Inputs : No. of pages , No. of frames and sequence of box will be generated randomly
